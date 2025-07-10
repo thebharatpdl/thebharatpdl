@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bharat </h1>
+<h1 align="center">Hi 👋, I'm Bharat Paudel </h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bharat paudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat paudel" height="30" width="40" /></a>
