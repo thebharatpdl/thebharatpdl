@@ -27,18 +27,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thebharatpdl&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thebharatpdl&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ### ⚡ What I'm Working On
-- 📱 TikTok-style AI-powered mobile app  
-- 🤖 AI/ML integration in real-world applications  
-- 🌐 Full-stack apps with scalable backend  
+
+- 💼 Freelancing as a React Native Developer (building cross-platform apps for clients)
+- 🔗 Developing BLE-based mobile applications for smart device integration  
+- 🧠 Building a **MindCare AI** – a mental wellness & self-improvement mobile app  
+- 🚀 Exploring AI-powered features for next-gen mobile experiences  
 
 ---
 
