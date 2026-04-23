@@ -34,5 +34,4 @@
 - 🧠 Building a **MindCare AI** – a mental wellness & self-improvement mobile app  
 - 🚀 Exploring AI-powered features for next-gen mobile experiences  
 
--
 
