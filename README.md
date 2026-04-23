@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharat Paudel</h1>
-<h3 align="center">React Native Developer | AI Enthusiast | Full-Stack Builder</h3>
+<h3 align="center">React Native Developer | Full-Stack Builder</h3>
 
 <p align="center">
 🚀 Building scalable mobile apps with AI integration <br/>
@@ -34,14 +34,5 @@
 - 🧠 Building a **MindCare AI** – a mental wellness & self-improvement mobile app  
 - 🚀 Exploring AI-powered features for next-gen mobile experiences  
 
----
+-
 
-### 🎯 Goals (2026)
-- 📄 Publish a research paper (AI + IoT / Federated Learning)
-- 🎓 Prepare for GRE & IELTS  
-- 💼 Land an international-level dev/RA opportunity  
-
----
-
-### 🧠 Fun Fact
-> I turn ideas into apps faster than my coffee gets cold ☕
