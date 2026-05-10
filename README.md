@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bharat Paudel</h1>
-<h3 align="center">React Native Developer | Full-Stack Builder</h3>
+<h3 align="center">AI/ML Enthusiast | Computer Vision Developer | React Native Engineer</h3>
 
 <p align="center">
-🚀 Building scalable mobile apps with AI integration <br/>
-💡 Passionate about performance, clean architecture & user experience
+🧠 Building real-time AI systems using Computer Vision and Deep Learning <br/>
+📱 Strong experience in React Native, full-stack apps, and production-ready systems <br/>
+🚀 Passionate about intelligent applications, clean architecture, and scalable AI solutions
 </p>
 
 ---
