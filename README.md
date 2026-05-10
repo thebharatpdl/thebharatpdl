@@ -27,11 +27,5 @@
 
 ---
 
-### ⚡ What I'm Working On
-
-- 💼 Freelancing as a React Native Developer (building cross-platform apps for clients)
-- 🔗 Developing BLE-based mobile applications for smart device integration  
-- 🧠 Building a **MindCare AI** – a mental wellness & self-improvement mobile app  
-- 🚀 Exploring AI-powered features for next-gen mobile experiences  
 
 
