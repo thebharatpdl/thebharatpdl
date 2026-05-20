@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharat Paudel</h1>
-<h3 align="center">AI/ML Enthusiast | Computer Vision Developer | React Native Engineer</h3>
+<h3 align="center"> Electronics, Communication & Information Engineer </h3>
 
 <p align="center">
 🧠 Building real-time AI systems using Computer Vision and Deep Learning <br/>
